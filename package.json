@@ -1,7 +1,7 @@
 {
   "author": "Snazzy",
   "bugs": {
-    "url": "https://github.com/Snazzy72/MashiroBot/issues"
+    "url": "https://github.com/Snazzy72/GalaxyBot/issues"
   },
   "dependencies": {
     "discord.js": "^11.6.4",
@@ -11,7 +11,7 @@
     "sqlite": "^2.9.3"
   },
   "description": "A level system bot written in JavaScript using discord.js Library",
-  "homepage": "https://github.com/Snazzy72/MashiroBot#readme",
+  "homepage": "https://github.com/Snazzy72/GalaxyBot#readme",
   "keywords": [
     "MashiroBot",
     "leaderboards",
@@ -25,7 +25,7 @@
   "name": "Galaxybot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Snazzy72/MashiroBot-master"
+    "url": "git+https://github.com/Snazzy72/GalaxyBot"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
