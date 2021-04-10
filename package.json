@@ -1,7 +1,7 @@
 {
   "author": "Snazzy",
   "bugs": {
-    "url": "https://github.com/Natsume-Xelidon/MashiroBot/issues"
+    "url": "https://github.com/Snazzy72/MashiroBot/issues"
   },
   "dependencies": {
     "discord.js": "^11.6.4",
@@ -11,7 +11,7 @@
     "sqlite": "^2.9.3"
   },
   "description": "A level system bot written in JavaScript using discord.js Library",
-  "homepage": "https://github.com/Natsume-Xelidon/MashiroBot#readme",
+  "homepage": "https://github.com/Snazzy72/MashiroBot#readme",
   "keywords": [
     "MashiroBot",
     "leaderboards",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "galaxybot",
+  "name": "Galaxybot",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Snazzy72/MashiroBot-master"
